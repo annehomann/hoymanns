@@ -1,0 +1,11 @@
+.container {
+    max-width: 1020px;
+}
+
+.main {
+    margin-top: 20px;
+}
+
+.bg-dark {
+    background-color: #F4C0AF !important;
+}
